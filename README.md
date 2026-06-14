@@ -217,24 +217,23 @@ This project was developed through iterative prompting, evaluation, implementati
 
 ### Home Page
 
-(Add screenshot)
+![Home Page](screenshots/home-page.png)
 
 ### Awareness Hub
 
-(Add screenshot)
+![Awareness Hub](screenshots/awareness-hub.png)
 
 ### Activity Tracker
 
-(Add screenshot)
+![Activity Tracker](screenshots/activity-tracker.png)
 
 ### Dashboard
 
-(Add screenshot)
+![Dashboard](screenshots/dashboard.png)
 
 ### Methodology Blueprint
 
-(Add screenshot)
-
+![Methodology Blueprint](screenshots/methodology-blueprint.png)
 ---
 
 ## Future Improvements
